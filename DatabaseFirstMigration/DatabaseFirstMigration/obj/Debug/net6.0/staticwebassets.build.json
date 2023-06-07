@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4CReXyXqd9ToMfrczNWKGEV++AFjdeLQ4LNy/89zIXc=",
+  "Source": "DatabaseFirstMigration",
+  "BasePath": "_content/DatabaseFirstMigration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
